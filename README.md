@@ -10,11 +10,11 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🎓 I’m a Software Engineering student at ISIMM
+- 🎓 I’m a Software Pre Engineering student at ISIMM
 - 💻 I love solving complex algorithmic problems and developing full-stack applications
+- 🌱 Practicing daily on Codeforces and deepening my understanding of oriented object programming in Java and Python.
 - 🚀 I’ve participated in national and regional programming contests (TCPC, ACPC Kickoff)
 - 🧠 Instructor at Microsoft Tech Club ISIMM, teaching algorithms and data structures
-- 🌱 Currently deepening my knowledge in Spring Boot, React, and software design patterns
 - 📫 Contact me at: [arouaraed@isimm.u-monastir.tn](mailto:arouaraed@isimm.u-monastir.tn)
 
 <br><br>
@@ -38,10 +38,10 @@
 <br>
 
 - **Frameworks & Tools**:
-
+    ![JavaFX](https://img.shields.io/badge/JavaFX-0095D5?style=for-the-badge&logo=java&logoColor=white)
+    
     ![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-    ![JavaFX](https://img.shields.io/badge/JavaFX-0095D5?style=for-the-badge&logo=java&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -58,7 +58,6 @@
 
     ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </p>
 
