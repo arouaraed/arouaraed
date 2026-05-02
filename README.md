@@ -6,16 +6,16 @@
   </a>
 </p>
 <br>
+---
 ## 🧠 About Me
 
-🎓 Currently pursuing a Software Engineering Degree at ISIMM, Monastir 🇹🇳
-🏆 2× ACPC Finalist (Africa & Arab Collegiate Programming Championship) and 2× TCPC Medalist (Bronze 2025 & 2026)
-💜 Expert @Codeforces — ranked among the Top 10 Tunisians
-🖥️ Backend-focused developer with hands-on experience in microservices, distributed systems, and cloud infrastructure
-❤️ I love competitive programming, algorithms, and problem-solving challenges
-🤖 Passionate about Full-Stack Development, AI and Full-Stack Development
-🎯 My ultimate goal: build significant and impactful projects that blend innovation and technical depth
-
+* 🎓 Currently pursuing a Software Engineering Degree at **ISIMM**, Monastir 🇹🇳
+* 🏆 **2× ACPC Finalist** and 2× TCPC Medalist (Bronze 2025 & 2026)
+* 💜 **Expert @Codeforces** — ranked among the Top 10 Tunisians
+* 🖥️ Backend-focused developer with experience in **Microservices** and **Distributed Systems**
+* ❤️ I love competitive programming and algorithmic challenges
+* 🤖 Passionate about **AI** and **Full-Stack Development**
+* 🎯 My goal: build impactful projects that blend innovation and technical depth
 ---
 
 ## 🛠️ Tech Stack
