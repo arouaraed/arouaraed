@@ -1,109 +1,61 @@
-<h1 align="center">Hi, I'm Raed Aroua 👋</h1>
+# Hi there, I'm Raed Aroua 👋
 
-<p align="center">
-  <b>Software Engineering Student · Backend Developer · Competitive Programmer</b><br/>
-  <sub>ISIMM · Bizerte, Tunisia</sub>
-</p>
+**Software Engineering Student | Backend Developer | Competitive Programmer**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raed-aroua-595889285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/RaedAroua"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="mailto:arouaraed@isimm.u-monastir.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+I am a Software Engineering student at ISIMM with a passion for building scalable backend systems and solving complex algorithmic challenges. I spend my time bridging the gap between high-level architectural design and low-level algorithmic efficiency.
 
 ---
 
-## 🧠 About Me
-
-Software Engineering student at ISIMM, specializing in problem solving and competitive programming, with a strong focus on application and web development. Represented Tunisia at the **ACPC** (Africa and Arab Collegiate Programming Championship), achieving multiple podium finishes in national programming contests. Passionate about learning new technologies and integrating AI-driven solutions — always seeking opportunities to contribute to innovative projects.
-
----
-
-## 🏆 Competitive Programming
-
-| Competition | Result |
-|---|---|
-| 🌍 [ACPC 2025 — Africa & Arab Collegiate Programming Championship](https://www.linkedin.com/posts/azizkhlify_acpc2025-competitiveprogramming-problemsolving-ugcPost-7408221099240398850-1kaz) | **Finalist ×2** |
-| 🥉 [TCPC 2026 — Tunisian Collegiate Programming Contest](https://www.linkedin.com/posts/rayen-bayouli-5a257021b_three-years-of-showing-up-two-years-of-qualifying-ugcPost-7454946490436837378-KyL0) | **Bronze Medal** |
-| 🥉 [TCPC 2025 — Tunisian Collegiate Programming Contest](https://www.linkedin.com/posts/raed-aroua-595889285_tcpc2025-acpc2025-competitiveprogramming-activity-7348432899114782720-1Asl) | **Bronze Medal** |
-| 🥇 [Cubix FSS Competition](https://www.linkedin.com/posts/azizkhlify_competitiveprogramming-teamwork-ugcPost-7432075304736800768-MuFM) | **1st / 60** |
-| 🏅 Wintercup 8.0 INSAT | **5th / 80** |
-| 🏅 [Hello World 5.0 ENIS](https://www.linkedin.com/posts/laouitiali_competitiveprogramming-coding-problemsolving-ugcPost-7325842305175715842-iqBT) | **4th / 50** |
+### 🚀 Quick Stats
+* 🏆 **Competitive Programming:** Codeforces Expert ([@RaedAroua](https://codeforces.com/profile/RaedAroua))
+* 🌍 **Achievements:** 2x ACPC Finalist & 2x TCPC Bronze Medalist
+* 🛠️ **Focus:** Microservices, Distributed Systems, and AI Integration
+* 🎓 **Education:** Software Engineering Degree at ISIMM (2023 – 2028)
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Java, C++, Python, C#, TypeScript, JavaScript |
+| **Backend** | Spring Boot, .NET, Spring Security, Hibernate/JPA, gRPC |
+| **Frontend** | ReactJS |
+| **Infrastructure** | Docker, Kafka, AWS CDK, Keycloak, PostgreSQL, Postman |
+| **Data Science** | NumPy, Pandas |
 
 ---
 
-## 🚀 Projects
+### 📂 Featured Projects
 
-### [🏥 Patient Management System — Microservices](https://github.com/arouaraed/Patient-management-system)
-Production-grade distributed system built with **Spring Boot**. Features JWT auth via **Keycloak**, **gRPC** synchronous calls, **Kafka** async events, and infrastructure provisioned via **AWS CDK** (ECS Fargate, RDS, MSK) with **Docker** and **LocalStack**.
+#### 🏥 [Patient Management System (Microservices)](https://github.com/arouaraed/Patient-management-system)
+A production-grade distributed system featuring:
+* **Architecture:** API Gateway with JWT (Keycloak), gRPC (Synchronous), and Kafka (Asynchronous).
+* **Infrastructure:** Provisioned via AWS CDK (ECS Fargate, RDS, MSK) and Docker.
+* **Cloud Emulation:** LocalStack for local development.
 
-`Java` `Spring Boot` `gRPC` `Kafka` `Keycloak` `PostgreSQL` `AWS CDK` `Docker`
+#### 🕵️ [Fake News Verification Extension](https://github.com/MalekToumi-815/Fake_News_Extension)
+A browser tool powered by an **n8n** automation backend and **LLM APIs** to instantly fact-check content online.
 
----
-
-### [🎟️ Event Ticket Platform](https://github.com/arouaraed/Event-ticket-app)
-Full-stack ticketing app with **QR code generation** and real-time ticket validation. Built with React + TypeScript frontend and Spring Boot + Spring Security backend.
-
-`React` `TypeScript` `Spring Boot` `Spring Security` `PostgreSQL`
-
----
-
-### [✅ Task Tracker](https://github.com/arouaraed/Task-Tracker-Spring-Boot-Project)
-Task management app with list creation, priorities, due dates, and progress tracking.
-
-`Spring Boot` `React` `TypeScript` `PostgreSQL`
+#### 🎟️ [Event Ticket Platform](https://github.com/arouaraed/Event-ticket-app)
+Full-stack app utilizing **React**, **TypeScript**, and **Spring Boot**. Includes real-time QR code validation and secure attendee management.
 
 ---
 
-### [🔍 Fake News Verification Extension](https://github.com/MalekToumi-815/Fake_News_Extension)
-Browser extension powered by **n8n** automation and **LLM APIs** to instantly fact-check suspect content and display verification reports.
+### 🏆 Competitive Programming & Leadership
 
-`JavaScript` `Browser Extension APIs` `n8n` `LLM APIs`
-
----
-
-## 🎓 Education
-
-**Software Engineering Degree** (5-year program) · ISIMM · 2023 – 2028
+* **ACPC Finalist (x2):** Qualified for the Africa and Arab Collegiate Programming Championship.
+* **TCPC 2025 & 2026:** Secured **Bronze Medals** in the Tunisian Collegiate Programming Contest.
+* **Instructor:** I enjoy giving back by conducting workshops on algorithms and data structures for clubs like MTC ISIMM and IEEE ENICarthage.
+* **Leadership:** Served as **Program Director** at Microsoft Tech Club (MTC) ISIMM.
 
 ---
 
-## 🤝 Extracurricular
-
-- 🏫 **Program Director** — Microsoft Tech Club ISIMM
-- 👨‍🏫 **[Competitive Programming Instructor](https://www.linkedin.com/posts/raed-aroua-595889285_i-recently-had-the-opportunity-to-present-activity-7403096582998491136-0LKJ)** — MTC ISIMM, IEEE ENICarthage, CPC FSS and other university clubs
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/raed-aroua](https://www.linkedin.com/in/raed-aroua-595889285/)
+* **Email:** [arouaraed@isimm.u-monastir.tn](mailto:arouaraed@isimm.u-monastir.tn)
+* **Codeforces:** [RaedAroua](https://codeforces.com/profile/RaedAroua)
 
 ---
 
-<p align="center">
-  <i>"I don't look for the obvious solution — I look for the best one."</i>
-</p>
+"Simplicity is the soul of efficiency."
