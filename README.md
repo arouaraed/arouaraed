@@ -1,18 +1,10 @@
-<h1 align="center">Hi, I'm Raed Aroua 👋</h1>
+<h1 align="center"><b>Hi 👋, I'm Raed Aroua</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Software Engineering Student · Backend Developer · Competitive Programmer</b><br/>
-  <sub>ISIMM · Bizerte, Tunisia</sub>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Competitive+Programmer;2x ACPC Finalist;Full-Stack Developer;Expert @Codeforces..."></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raed-aroua-595889285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/RaedAroua"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="mailto:arouaraed@isimm.u-monastir.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
+<br>
 ## 🧠 About Me
 
 Software Engineering student at ISIMM, specializing in problem solving and competitive programming, with a strong focus on application and web development. Represented Tunisia at the **ACPC** (Africa and Arab Collegiate Programming Championship), achieving multiple podium finishes in national programming contests. Passionate about learning new technologies and integrating AI-driven solutions — always seeking opportunities to contribute to innovative projects.
