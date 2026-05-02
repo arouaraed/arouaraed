@@ -5,9 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Competitive+Programmer;2x+ACPC+Finalist;Full-Stack+Developer;Expert+@Codeforces...">
   </a>
 </p>
-<br>
 ---
-
 ## 🧠 About Me
 
 * 🎓 Currently pursuing a Software Engineering Degree at **ISIMM**, Monastir 🇹🇳
